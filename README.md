@@ -50,3 +50,8 @@ Render Marching cubes using 4d perlin noise with one dimension as time.
 
 *Resources*: 
 - [Marching Cubes](https://graphics.stanford.edu/~mdfisher/MarchingCubes.html)
+
+## Unity Shaders
+Write cool unity shaders. like these: https://catlikecoding.com/unity/tutorials/
+
+Maybe complete the hyperbolic renderer😲 ?
