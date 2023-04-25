@@ -1,6 +1,5 @@
 # Ideas
 
-
 # Large
 ## Comp Geom Library (In rust :astonished:?)
 A computational Geometry library to abstract out the maths behind computational Geometry.
