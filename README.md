@@ -1,5 +1,7 @@
 # Ideas
 
+
+# Large
 ## Comp Geom Library (In rust :astonished:?)
 A computational Geometry library to abstract out the maths behind computational Geometry.
 
@@ -51,7 +53,16 @@ Render Marching cubes using 4d perlin noise with one dimension as time.
 *Resources*: 
 - [Marching Cubes](https://graphics.stanford.edu/~mdfisher/MarchingCubes.html)
 
+# Small
+
 ## Unity Shaders
 Write cool unity shaders. like these: https://catlikecoding.com/unity/tutorials/
 
-Maybe complete the hyperbolic renderer😲 ?
+Maybe complete the hyperbolic renderer😲?
+
+## Kuwuhara filter
+Anisotropic kuwuhara filter written on shader toy with a web cam: http://www.umsl.edu/~kangh/Papers/kang-tpcg2010.pdf
+
+
+
+
