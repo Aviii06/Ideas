@@ -1,7 +1,7 @@
 # Ideas
 
 # Large
-## STrace alternative using eBPF
+## strace alternative using eBPF
 Essentailly using eBPF to trace syscalls in linux, and hopefully in macos in the future when eBPFs are supported in OSX.
 
 *TechStack*: CPP, eBPF
