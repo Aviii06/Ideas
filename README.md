@@ -1,6 +1,15 @@
 # Ideas
 
 # Large
+## STrace alternative using eBPF
+Essentailly using eBPF to trace syscalls in linux, and hopefully in macos in the future when eBPFs are supported in OSX.
+
+*TechStack*: CPP, eBPF
+
+*Resources*:
+- [Tracing Syscalls](https://falco.org/blog/tracing-syscalls-using-ebpf-part-1/#:~:text=eBPF%20provides%20powerful%20tracing%20and,visibility%20into%20the%20system%20behaviour.)
+- [A blog going through something similar](https://www.joyfulbikeshedding.com/blog/2019-01-31-full-system-dynamic-tracing-on-linux-using-ebpf-and-bpftrace.html)
+
 ## Comp Geom Library (In rust :astonished:?)
 A computational Geometry library to abstract out the maths behind computational Geometry.
 
