@@ -1,6 +1,10 @@
 # Ideas
 
 # Large
+## riscV emulator that can run linux
+*Resources*
+- [opcodes riscV](https://github.com/riscv/riscv-opcodes/tree/7d1a0e3153c37cd180be9e95f331f32c225d9257)
+- [riscV ona  pixel shader](https://blog.pimaker.at/texts/rvc1/)
 ## strace alternative using eBPF
 Essentailly using eBPF to trace syscalls in linux, and hopefully in macos in the future when eBPFs are supported in OSX.
 
