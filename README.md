@@ -1,6 +1,13 @@
 # Ideas
 
 # Large
+## BB8 clone
+Both hardware and software
+**Resources**
+- [Mike Senna have a projects which contains 3D printing data of the BB8](http://sennasr2d2.blogspot.com)
+- [Controling Motors using Raspberry PI](https://projects.raspberrypi.org/en/projects/physical-computing/14)
+
+
 ## riscV emulator that can run linux
 *Resources*
 - [opcodes riscV](https://github.com/riscv/riscv-opcodes/tree/7d1a0e3153c37cd180be9e95f331f32c225d9257)
