@@ -1,6 +1,10 @@
 # Ideas
 
 # Large
+## HDMI Splitter
+Have one output from two sources, split in screen.
+Technical feasibility questionable. Should be possible.
+
 ## BB8 clone
 Both hardware and software
 
