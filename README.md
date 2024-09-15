@@ -1,6 +1,9 @@
 # Ideas
 
 # Large
+## Codeforces in Golang but with interactive maths questions
+Obv from the name ig
+
 ## HDMI Splitter
 Have one output from two sources, split in screen.
 Technical feasibility questionable. Should be possible.
